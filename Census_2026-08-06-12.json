@@ -1,0 +1,2242 @@
+{
+  "__source__": "https://discord.com/channels/1121269406153048064/1514717276950102016/1537505970001944647",
+  "Generated": "08/13/2026 10:31:23",
+  "Unique Players": 4714,
+  "Population Composition": {
+    "Carnivore": {
+      "count": 3613,
+      "percent": 76.6
+    },
+    "Herbivore": {
+      "count": 1003,
+      "percent": 21.3
+    },
+    "Omnivore": {
+      "count": 98,
+      "percent": 2.1
+    }
+  },
+  "Top 10 Species": {
+    "1": {
+      "dino": "Tyrannosaurus",
+      "count": 762,
+      "percent": 16.2
+    },
+    "2": {
+      "dino": "Austroraptor",
+      "count": 734,
+      "percent": 15.6
+    },
+    "3": {
+      "dino": "Allosaurus",
+      "count": 405,
+      "percent": 8.6
+    },
+    "4": {
+      "dino": "Deinosuchus",
+      "count": 380,
+      "percent": 8.1
+    },
+    "5": {
+      "dino": "Ceratosaurus",
+      "count": 270,
+      "percent": 5.7
+    },
+    "6": {
+      "dino": "Omniraptor",
+      "count": 249,
+      "percent": 5.3
+    },
+    "7": {
+      "dino": "Pteranodon",
+      "count": 231,
+      "percent": 4.9
+    },
+    "8": {
+      "dino": "Triceratops",
+      "count": 213,
+      "percent": 4.5
+    },
+    "9": {
+      "dino": "Kentrosaurus",
+      "count": 200,
+      "percent": 4.2
+    },
+    "10": {
+      "dino": "Carnotaurus",
+      "count": 186,
+      "percent": 3.9
+    }
+  },
+  "Species Breakdown": {
+    "Tyrannosaurus": {
+      "count": 762,
+      "percent": 16.2
+    },
+    "Austroraptor": {
+      "count": 734,
+      "percent": 15.6
+    },
+    "Allosaurus": {
+      "count": 405,
+      "percent": 8.6
+    },
+    "Deinosuchus": {
+      "count": 380,
+      "percent": 8.1
+    },
+    "Ceratosaurus": {
+      "count": 270,
+      "percent": 5.7
+    },
+    "Omniraptor": {
+      "count": 249,
+      "percent": 5.3
+    },
+    "Pteranodon": {
+      "count": 231,
+      "percent": 4.9
+    },
+    "Triceratops": {
+      "count": 213,
+      "percent": 4.5
+    },
+    "Kentrosaurus": {
+      "count": 200,
+      "percent": 4.2
+    },
+    "Carnotaurus": {
+      "count": 186,
+      "percent": 3.9
+    },
+    "Dilophosaurus": {
+      "count": 148,
+      "percent": 3.1
+    },
+    "Stegosaurus": {
+      "count": 144,
+      "percent": 3.1
+    },
+    "Troodon": {
+      "count": 128,
+      "percent": 2.7
+    },
+    "Herrerasaurus": {
+      "count": 120,
+      "percent": 2.5
+    },
+    "Diabloceratops": {
+      "count": 112,
+      "percent": 2.4
+    },
+    "Pachycephalosaurus": {
+      "count": 101,
+      "percent": 2.1
+    },
+    "Maiasaura": {
+      "count": 79,
+      "percent": 1.7
+    },
+    "Tenontosaurus": {
+      "count": 67,
+      "percent": 1.4
+    },
+    "Hypsilophodon": {
+      "count": 65,
+      "percent": 1.4
+    },
+    "Gallimimus": {
+      "count": 54,
+      "percent": 1.1
+    },
+    "Beipiaosaurus": {
+      "count": 44,
+      "percent": 0.9
+    },
+    "Dryosaurus": {
+      "count": 22,
+      "percent": 0.5
+    }
+  },
+  "Growth Distribution": {
+    "Adult": 1002,
+    "Hatchling": 14,
+    "Juvenile": 2620,
+    "Sub Adult": 1078
+  },
+  "Survival Index": {
+    "Tyrannosaurus": 7.2,
+    "Austroraptor": 23.2,
+    "Allosaurus": 14.8,
+    "Deinosuchus": 7.9,
+    "Ceratosaurus": 25.2,
+    "Omniraptor": 21.3,
+    "Pteranodon": 26.4,
+    "Triceratops": 25.8,
+    "Kentrosaurus": 37,
+    "Carnotaurus": 26.3,
+    "Dilophosaurus": 29.7,
+    "Stegosaurus": 31.9,
+    "Troodon": 24.2,
+    "Herrerasaurus": 15,
+    "Diabloceratops": 33.9,
+    "Pachycephalosaurus": 39.6,
+    "Maiasaura": 21.5,
+    "Tenontosaurus": 31.3,
+    "Hypsilophodon": 55.4,
+    "Gallimimus": 22.2,
+    "Beipiaosaurus": 47.7,
+    "Dryosaurus": 13.6
+  },
+  "Unknown Species": [],
+  "Species Growth Breakdown": {
+    "Allosaurus": {
+      "Hatchling": 0,
+      "Juvenile": 275,
+      "Sub Adult": 70,
+      "Adult": 60
+    },
+    "Austroraptor": {
+      "Hatchling": 2,
+      "Juvenile": 366,
+      "Sub Adult": 196,
+      "Adult": 170
+    },
+    "Beipiaosaurus": {
+      "Hatchling": 0,
+      "Juvenile": 13,
+      "Sub Adult": 10,
+      "Adult": 21
+    },
+    "Carnotaurus": {
+      "Hatchling": 0,
+      "Juvenile": 92,
+      "Sub Adult": 45,
+      "Adult": 49
+    },
+    "Ceratosaurus": {
+      "Hatchling": 1,
+      "Juvenile": 135,
+      "Sub Adult": 66,
+      "Adult": 68
+    },
+    "Deinosuchus": {
+      "Hatchling": 0,
+      "Juvenile": 279,
+      "Sub Adult": 71,
+      "Adult": 30
+    },
+    "Diabloceratops": {
+      "Hatchling": 1,
+      "Juvenile": 44,
+      "Sub Adult": 29,
+      "Adult": 38
+    },
+    "Dilophosaurus": {
+      "Hatchling": 1,
+      "Juvenile": 60,
+      "Sub Adult": 43,
+      "Adult": 44
+    },
+    "Dryosaurus": {
+      "Hatchling": 0,
+      "Juvenile": 7,
+      "Sub Adult": 12,
+      "Adult": 3
+    },
+    "Gallimimus": {
+      "Hatchling": 0,
+      "Juvenile": 22,
+      "Sub Adult": 20,
+      "Adult": 12
+    },
+    "Herrerasaurus": {
+      "Hatchling": 1,
+      "Juvenile": 85,
+      "Sub Adult": 16,
+      "Adult": 18
+    },
+    "Hypsilophodon": {
+      "Hatchling": 0,
+      "Juvenile": 14,
+      "Sub Adult": 15,
+      "Adult": 36
+    },
+    "Kentrosaurus": {
+      "Hatchling": 2,
+      "Juvenile": 78,
+      "Sub Adult": 46,
+      "Adult": 74
+    },
+    "Maiasaura": {
+      "Hatchling": 4,
+      "Juvenile": 29,
+      "Sub Adult": 29,
+      "Adult": 17
+    },
+    "Omniraptor": {
+      "Hatchling": 1,
+      "Juvenile": 137,
+      "Sub Adult": 58,
+      "Adult": 53
+    },
+    "Pachycephalosaurus": {
+      "Hatchling": 0,
+      "Juvenile": 28,
+      "Sub Adult": 33,
+      "Adult": 40
+    },
+    "Pteranodon": {
+      "Hatchling": 0,
+      "Juvenile": 122,
+      "Sub Adult": 48,
+      "Adult": 61
+    },
+    "Stegosaurus": {
+      "Hatchling": 0,
+      "Juvenile": 48,
+      "Sub Adult": 50,
+      "Adult": 46
+    },
+    "Tenontosaurus": {
+      "Hatchling": 0,
+      "Juvenile": 25,
+      "Sub Adult": 21,
+      "Adult": 21
+    },
+    "Triceratops": {
+      "Hatchling": 1,
+      "Juvenile": 101,
+      "Sub Adult": 56,
+      "Adult": 55
+    },
+    "Troodon": {
+      "Hatchling": 0,
+      "Juvenile": 66,
+      "Sub Adult": 31,
+      "Adult": 31
+    },
+    "Tyrannosaurus": {
+      "Hatchling": 0,
+      "Juvenile": 594,
+      "Sub Adult": 113,
+      "Adult": 55
+    }
+  },
+  "Maturity Index": {
+    "Tyrannosaurus": 0.57,
+    "Austroraptor": 0.68,
+    "Allosaurus": 0.62,
+    "Deinosuchus": 0.59,
+    "Ceratosaurus": 0.69,
+    "Omniraptor": 0.66,
+    "Pteranodon": 0.68,
+    "Triceratops": 0.69,
+    "Kentrosaurus": 0.74,
+    "Carnotaurus": 0.69,
+    "Dilophosaurus": 0.72,
+    "Stegosaurus": 0.75,
+    "Troodon": 0.68,
+    "Herrerasaurus": 0.61,
+    "Diabloceratops": 0.73,
+    "Pachycephalosaurus": 0.78,
+    "Maiasaura": 0.69,
+    "Tenontosaurus": 0.74,
+    "Hypsilophodon": 0.83,
+    "Gallimimus": 0.7,
+    "Beipiaosaurus": 0.8,
+    "Dryosaurus": 0.7
+  },
+  "Population Pressure Index": {
+    "Tyrannosaurus": {
+      "percent": 16.2,
+      "status": "Dominant"
+    },
+    "Austroraptor": {
+      "percent": 15.6,
+      "status": "Dominant"
+    },
+    "Allosaurus": {
+      "percent": 8.6,
+      "status": "Healthy"
+    },
+    "Deinosuchus": {
+      "percent": 8.1,
+      "status": "Healthy"
+    },
+    "Ceratosaurus": {
+      "percent": 5.7,
+      "status": "Healthy"
+    },
+    "Omniraptor": {
+      "percent": 5.3,
+      "status": "Healthy"
+    },
+    "Pteranodon": {
+      "percent": 4.9,
+      "status": "Healthy"
+    },
+    "Triceratops": {
+      "percent": 4.5,
+      "status": "Healthy"
+    },
+    "Kentrosaurus": {
+      "percent": 4.2,
+      "status": "Healthy"
+    },
+    "Carnotaurus": {
+      "percent": 3.9,
+      "status": "Healthy"
+    },
+    "Dilophosaurus": {
+      "percent": 3.1,
+      "status": "Healthy"
+    },
+    "Stegosaurus": {
+      "percent": 3.1,
+      "status": "Healthy"
+    },
+    "Troodon": {
+      "percent": 2.7,
+      "status": "Healthy"
+    },
+    "Herrerasaurus": {
+      "percent": 2.5,
+      "status": "Healthy"
+    },
+    "Diabloceratops": {
+      "percent": 2.4,
+      "status": "Healthy"
+    },
+    "Pachycephalosaurus": {
+      "percent": 2.1,
+      "status": "Healthy"
+    },
+    "Maiasaura": {
+      "percent": 1.7,
+      "status": "Rare"
+    },
+    "Tenontosaurus": {
+      "percent": 1.4,
+      "status": "Rare"
+    },
+    "Hypsilophodon": {
+      "percent": 1.4,
+      "status": "Rare"
+    },
+    "Gallimimus": {
+      "percent": 1.1,
+      "status": "Rare"
+    },
+    "Beipiaosaurus": {
+      "percent": 0.9,
+      "status": "Endangered"
+    },
+    "Dryosaurus": {
+      "percent": 0.5,
+      "status": "Endangered"
+    }
+  },
+  "Daily Activity": {
+    "2026-08-06": 1386,
+    "2026-08-07": 1441,
+    "2026-08-08": 1500,
+    "2026-08-09": 1373,
+    "2026-08-10": 1092,
+    "2026-08-11": 1266,
+    "2026-08-12": 1153
+  },
+  "Daily Population Census": {
+    "2026-08-06": {
+      "players": 1386,
+      "data": {
+        "Austroraptor": {
+          "count": 241,
+          "percent": 17.4
+        },
+        "Tyrannosaurus": {
+          "count": 212,
+          "percent": 15.3
+        },
+        "Deinosuchus": {
+          "count": 106,
+          "percent": 7.6
+        },
+        "Allosaurus": {
+          "count": 90,
+          "percent": 6.5
+        },
+        "Omniraptor": {
+          "count": 90,
+          "percent": 6.5
+        },
+        "Ceratosaurus": {
+          "count": 81,
+          "percent": 5.8
+        },
+        "Triceratops": {
+          "count": 72,
+          "percent": 5.2
+        },
+        "Dilophosaurus": {
+          "count": 59,
+          "percent": 4.3
+        },
+        "Carnotaurus": {
+          "count": 59,
+          "percent": 4.3
+        },
+        "Pteranodon": {
+          "count": 58,
+          "percent": 4.2
+        },
+        "Stegosaurus": {
+          "count": 44,
+          "percent": 3.2
+        },
+        "Kentrosaurus": {
+          "count": 44,
+          "percent": 3.2
+        },
+        "Diabloceratops": {
+          "count": 37,
+          "percent": 2.7
+        },
+        "Troodon": {
+          "count": 33,
+          "percent": 2.4
+        },
+        "Herrerasaurus": {
+          "count": 29,
+          "percent": 2.1
+        },
+        "Maiasaura": {
+          "count": 27,
+          "percent": 1.9
+        },
+        "Pachycephalosaurus": {
+          "count": 24,
+          "percent": 1.7
+        },
+        "Beipiaosaurus": {
+          "count": 20,
+          "percent": 1.4
+        },
+        "Tenontosaurus": {
+          "count": 20,
+          "percent": 1.4
+        },
+        "Hypsilophodon": {
+          "count": 18,
+          "percent": 1.3
+        },
+        "Gallimimus": {
+          "count": 16,
+          "percent": 1.2
+        },
+        "Dryosaurus": {
+          "count": 6,
+          "percent": 0.4
+        }
+      }
+    },
+    "2026-08-07": {
+      "players": 1441,
+      "data": {
+        "Austroraptor": {
+          "count": 265,
+          "percent": 18.4
+        },
+        "Tyrannosaurus": {
+          "count": 222,
+          "percent": 15.4
+        },
+        "Allosaurus": {
+          "count": 113,
+          "percent": 7.8
+        },
+        "Deinosuchus": {
+          "count": 100,
+          "percent": 6.9
+        },
+        "Triceratops": {
+          "count": 87,
+          "percent": 6
+        },
+        "Omniraptor": {
+          "count": 84,
+          "percent": 5.8
+        },
+        "Ceratosaurus": {
+          "count": 74,
+          "percent": 5.1
+        },
+        "Pteranodon": {
+          "count": 67,
+          "percent": 4.6
+        },
+        "Carnotaurus": {
+          "count": 60,
+          "percent": 4.2
+        },
+        "Kentrosaurus": {
+          "count": 60,
+          "percent": 4.2
+        },
+        "Dilophosaurus": {
+          "count": 46,
+          "percent": 3.2
+        },
+        "Maiasaura": {
+          "count": 42,
+          "percent": 2.9
+        },
+        "Stegosaurus": {
+          "count": 40,
+          "percent": 2.8
+        },
+        "Troodon": {
+          "count": 37,
+          "percent": 2.6
+        },
+        "Herrerasaurus": {
+          "count": 33,
+          "percent": 2.3
+        },
+        "Diabloceratops": {
+          "count": 29,
+          "percent": 2
+        },
+        "Pachycephalosaurus": {
+          "count": 28,
+          "percent": 1.9
+        },
+        "Gallimimus": {
+          "count": 14,
+          "percent": 1
+        },
+        "Beipiaosaurus": {
+          "count": 13,
+          "percent": 0.9
+        },
+        "Tenontosaurus": {
+          "count": 12,
+          "percent": 0.8
+        },
+        "Hypsilophodon": {
+          "count": 10,
+          "percent": 0.7
+        },
+        "Dryosaurus": {
+          "count": 5,
+          "percent": 0.3
+        }
+      }
+    },
+    "2026-08-08": {
+      "players": 1500,
+      "data": {
+        "Austroraptor": {
+          "count": 230,
+          "percent": 15.3
+        },
+        "Tyrannosaurus": {
+          "count": 227,
+          "percent": 15.1
+        },
+        "Allosaurus": {
+          "count": 116,
+          "percent": 7.7
+        },
+        "Deinosuchus": {
+          "count": 110,
+          "percent": 7.3
+        },
+        "Triceratops": {
+          "count": 88,
+          "percent": 5.9
+        },
+        "Pteranodon": {
+          "count": 84,
+          "percent": 5.6
+        },
+        "Kentrosaurus": {
+          "count": 77,
+          "percent": 5.1
+        },
+        "Ceratosaurus": {
+          "count": 76,
+          "percent": 5.1
+        },
+        "Omniraptor": {
+          "count": 73,
+          "percent": 4.9
+        },
+        "Stegosaurus": {
+          "count": 57,
+          "percent": 3.8
+        },
+        "Dilophosaurus": {
+          "count": 57,
+          "percent": 3.8
+        },
+        "Carnotaurus": {
+          "count": 52,
+          "percent": 3.5
+        },
+        "Diabloceratops": {
+          "count": 45,
+          "percent": 3
+        },
+        "Herrerasaurus": {
+          "count": 42,
+          "percent": 2.8
+        },
+        "Pachycephalosaurus": {
+          "count": 37,
+          "percent": 2.5
+        },
+        "Maiasaura": {
+          "count": 30,
+          "percent": 2
+        },
+        "Troodon": {
+          "count": 29,
+          "percent": 1.9
+        },
+        "Gallimimus": {
+          "count": 21,
+          "percent": 1.4
+        },
+        "Tenontosaurus": {
+          "count": 20,
+          "percent": 1.3
+        },
+        "Hypsilophodon": {
+          "count": 12,
+          "percent": 0.8
+        },
+        "Beipiaosaurus": {
+          "count": 9,
+          "percent": 0.6
+        },
+        "Dryosaurus": {
+          "count": 8,
+          "percent": 0.5
+        }
+      }
+    },
+    "2026-08-09": {
+      "players": 1373,
+      "data": {
+        "Tyrannosaurus": {
+          "count": 221,
+          "percent": 16.1
+        },
+        "Austroraptor": {
+          "count": 204,
+          "percent": 14.9
+        },
+        "Allosaurus": {
+          "count": 142,
+          "percent": 10.3
+        },
+        "Deinosuchus": {
+          "count": 102,
+          "percent": 7.4
+        },
+        "Triceratops": {
+          "count": 76,
+          "percent": 5.5
+        },
+        "Ceratosaurus": {
+          "count": 69,
+          "percent": 5
+        },
+        "Pteranodon": {
+          "count": 64,
+          "percent": 4.7
+        },
+        "Carnotaurus": {
+          "count": 63,
+          "percent": 4.6
+        },
+        "Omniraptor": {
+          "count": 56,
+          "percent": 4.1
+        },
+        "Dilophosaurus": {
+          "count": 55,
+          "percent": 4
+        },
+        "Stegosaurus": {
+          "count": 50,
+          "percent": 3.6
+        },
+        "Kentrosaurus": {
+          "count": 44,
+          "percent": 3.2
+        },
+        "Pachycephalosaurus": {
+          "count": 44,
+          "percent": 3.2
+        },
+        "Diabloceratops": {
+          "count": 40,
+          "percent": 2.9
+        },
+        "Troodon": {
+          "count": 34,
+          "percent": 2.5
+        },
+        "Herrerasaurus": {
+          "count": 25,
+          "percent": 1.8
+        },
+        "Hypsilophodon": {
+          "count": 22,
+          "percent": 1.6
+        },
+        "Gallimimus": {
+          "count": 20,
+          "percent": 1.5
+        },
+        "Maiasaura": {
+          "count": 15,
+          "percent": 1.1
+        },
+        "Tenontosaurus": {
+          "count": 13,
+          "percent": 0.9
+        },
+        "Beipiaosaurus": {
+          "count": 11,
+          "percent": 0.8
+        },
+        "Dryosaurus": {
+          "count": 3,
+          "percent": 0.2
+        }
+      }
+    },
+    "2026-08-10": {
+      "players": 1092,
+      "data": {
+        "Tyrannosaurus": {
+          "count": 206,
+          "percent": 18.9
+        },
+        "Austroraptor": {
+          "count": 129,
+          "percent": 11.8
+        },
+        "Deinosuchus": {
+          "count": 102,
+          "percent": 9.3
+        },
+        "Allosaurus": {
+          "count": 77,
+          "percent": 7.1
+        },
+        "Ceratosaurus": {
+          "count": 65,
+          "percent": 6
+        },
+        "Triceratops": {
+          "count": 60,
+          "percent": 5.5
+        },
+        "Omniraptor": {
+          "count": 59,
+          "percent": 5.4
+        },
+        "Kentrosaurus": {
+          "count": 47,
+          "percent": 4.3
+        },
+        "Stegosaurus": {
+          "count": 45,
+          "percent": 4.1
+        },
+        "Pteranodon": {
+          "count": 45,
+          "percent": 4.1
+        },
+        "Carnotaurus": {
+          "count": 44,
+          "percent": 4
+        },
+        "Maiasaura": {
+          "count": 43,
+          "percent": 3.9
+        },
+        "Dilophosaurus": {
+          "count": 28,
+          "percent": 2.6
+        },
+        "Herrerasaurus": {
+          "count": 24,
+          "percent": 2.2
+        },
+        "Diabloceratops": {
+          "count": 23,
+          "percent": 2.1
+        },
+        "Troodon": {
+          "count": 20,
+          "percent": 1.8
+        },
+        "Pachycephalosaurus": {
+          "count": 18,
+          "percent": 1.6
+        },
+        "Hypsilophodon": {
+          "count": 17,
+          "percent": 1.6
+        },
+        "Tenontosaurus": {
+          "count": 15,
+          "percent": 1.4
+        },
+        "Gallimimus": {
+          "count": 13,
+          "percent": 1.2
+        },
+        "Beipiaosaurus": {
+          "count": 8,
+          "percent": 0.7
+        },
+        "Dryosaurus": {
+          "count": 4,
+          "percent": 0.4
+        }
+      }
+    },
+    "2026-08-11": {
+      "players": 1266,
+      "data": {
+        "Tyrannosaurus": {
+          "count": 237,
+          "percent": 18.7
+        },
+        "Austroraptor": {
+          "count": 148,
+          "percent": 11.7
+        },
+        "Allosaurus": {
+          "count": 137,
+          "percent": 10.8
+        },
+        "Deinosuchus": {
+          "count": 93,
+          "percent": 7.3
+        },
+        "Ceratosaurus": {
+          "count": 69,
+          "percent": 5.5
+        },
+        "Triceratops": {
+          "count": 67,
+          "percent": 5.3
+        },
+        "Omniraptor": {
+          "count": 63,
+          "percent": 5
+        },
+        "Stegosaurus": {
+          "count": 50,
+          "percent": 3.9
+        },
+        "Kentrosaurus": {
+          "count": 48,
+          "percent": 3.8
+        },
+        "Pteranodon": {
+          "count": 47,
+          "percent": 3.7
+        },
+        "Carnotaurus": {
+          "count": 46,
+          "percent": 3.6
+        },
+        "Dilophosaurus": {
+          "count": 45,
+          "percent": 3.6
+        },
+        "Troodon": {
+          "count": 35,
+          "percent": 2.8
+        },
+        "Maiasaura": {
+          "count": 31,
+          "percent": 2.4
+        },
+        "Pachycephalosaurus": {
+          "count": 27,
+          "percent": 2.1
+        },
+        "Herrerasaurus": {
+          "count": 26,
+          "percent": 2.1
+        },
+        "Hypsilophodon": {
+          "count": 22,
+          "percent": 1.7
+        },
+        "Tenontosaurus": {
+          "count": 22,
+          "percent": 1.7
+        },
+        "Diabloceratops": {
+          "count": 21,
+          "percent": 1.7
+        },
+        "Beipiaosaurus": {
+          "count": 15,
+          "percent": 1.2
+        },
+        "Gallimimus": {
+          "count": 12,
+          "percent": 0.9
+        },
+        "Dryosaurus": {
+          "count": 5,
+          "percent": 0.4
+        }
+      }
+    },
+    "2026-08-12": {
+      "players": 1153,
+      "data": {
+        "Tyrannosaurus": {
+          "count": 219,
+          "percent": 19
+        },
+        "Austroraptor": {
+          "count": 118,
+          "percent": 10.2
+        },
+        "Allosaurus": {
+          "count": 105,
+          "percent": 9.1
+        },
+        "Deinosuchus": {
+          "count": 92,
+          "percent": 8
+        },
+        "Ceratosaurus": {
+          "count": 80,
+          "percent": 6.9
+        },
+        "Kentrosaurus": {
+          "count": 61,
+          "percent": 5.3
+        },
+        "Triceratops": {
+          "count": 60,
+          "percent": 5.2
+        },
+        "Stegosaurus": {
+          "count": 57,
+          "percent": 4.9
+        },
+        "Carnotaurus": {
+          "count": 47,
+          "percent": 4.1
+        },
+        "Omniraptor": {
+          "count": 46,
+          "percent": 4
+        },
+        "Pteranodon": {
+          "count": 45,
+          "percent": 3.9
+        },
+        "Diabloceratops": {
+          "count": 38,
+          "percent": 3.3
+        },
+        "Troodon": {
+          "count": 34,
+          "percent": 2.9
+        },
+        "Dilophosaurus": {
+          "count": 33,
+          "percent": 2.9
+        },
+        "Herrerasaurus": {
+          "count": 27,
+          "percent": 2.3
+        },
+        "Tenontosaurus": {
+          "count": 21,
+          "percent": 1.8
+        },
+        "Maiasaura": {
+          "count": 19,
+          "percent": 1.6
+        },
+        "Hypsilophodon": {
+          "count": 14,
+          "percent": 1.2
+        },
+        "Beipiaosaurus": {
+          "count": 11,
+          "percent": 1
+        },
+        "Pachycephalosaurus": {
+          "count": 11,
+          "percent": 1
+        },
+        "Gallimimus": {
+          "count": 9,
+          "percent": 0.8
+        },
+        "Dryosaurus": {
+          "count": 6,
+          "percent": 0.5
+        }
+      }
+    }
+  },
+  "Species Trend Matrix": {
+    "Allosaurus": [
+      6,
+      8,
+      8,
+      10,
+      7,
+      11,
+      9
+    ],
+    "Austroraptor": [
+      17,
+      18,
+      15,
+      15,
+      12,
+      12,
+      10
+    ],
+    "Beipiaosaurus": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "Carnotaurus": [
+      4,
+      4,
+      3,
+      5,
+      4,
+      4,
+      4
+    ],
+    "Ceratosaurus": [
+      6,
+      5,
+      5,
+      5,
+      6,
+      5,
+      7
+    ],
+    "Deinosuchus": [
+      8,
+      7,
+      7,
+      7,
+      9,
+      7,
+      8
+    ],
+    "Diabloceratops": [
+      3,
+      2,
+      3,
+      3,
+      2,
+      2,
+      3
+    ],
+    "Dilophosaurus": [
+      4,
+      3,
+      4,
+      4,
+      3,
+      4,
+      3
+    ],
+    "Dryosaurus": [
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      1
+    ],
+    "Gallimimus": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "Herrerasaurus": [
+      2,
+      2,
+      3,
+      2,
+      2,
+      2,
+      2
+    ],
+    "Hypsilophodon": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      1
+    ],
+    "Kentrosaurus": [
+      3,
+      4,
+      5,
+      3,
+      4,
+      4,
+      5
+    ],
+    "Maiasaura": [
+      2,
+      3,
+      2,
+      1,
+      4,
+      2,
+      2
+    ],
+    "Omniraptor": [
+      6,
+      6,
+      5,
+      4,
+      5,
+      5,
+      4
+    ],
+    "Pachycephalosaurus": [
+      2,
+      2,
+      2,
+      3,
+      2,
+      2,
+      1
+    ],
+    "Pteranodon": [
+      4,
+      5,
+      6,
+      5,
+      4,
+      4,
+      4
+    ],
+    "Stegosaurus": [
+      3,
+      3,
+      4,
+      4,
+      4,
+      4,
+      5
+    ],
+    "Tenontosaurus": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      2
+    ],
+    "Triceratops": [
+      5,
+      6,
+      6,
+      6,
+      5,
+      5,
+      5
+    ],
+    "Troodon": [
+      2,
+      3,
+      2,
+      2,
+      2,
+      3,
+      3
+    ],
+    "Tyrannosaurus": [
+      15,
+      15,
+      15,
+      16,
+      19,
+      19,
+      19
+    ]
+  },
+  "Daily Growth Census": {
+    "2026-08-06": {
+      "Austroraptor": {
+        "Hatchling": 1,
+        "Juvenile": 115,
+        "Sub Adult": 65,
+        "Adult": 60
+      },
+      "Tyrannosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 143,
+        "Sub Adult": 47,
+        "Adult": 22
+      },
+      "Deinosuchus": {
+        "Hatchling": 0,
+        "Juvenile": 59,
+        "Sub Adult": 33,
+        "Adult": 14
+      },
+      "Allosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 58,
+        "Sub Adult": 15,
+        "Adult": 17
+      },
+      "Omniraptor": {
+        "Hatchling": 0,
+        "Juvenile": 47,
+        "Sub Adult": 18,
+        "Adult": 25
+      },
+      "Ceratosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 40,
+        "Sub Adult": 18,
+        "Adult": 23
+      },
+      "Triceratops": {
+        "Hatchling": 1,
+        "Juvenile": 27,
+        "Sub Adult": 27,
+        "Adult": 17
+      },
+      "Dilophosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 17,
+        "Sub Adult": 21,
+        "Adult": 21
+      },
+      "Carnotaurus": {
+        "Hatchling": 0,
+        "Juvenile": 35,
+        "Sub Adult": 13,
+        "Adult": 11
+      },
+      "Pteranodon": {
+        "Hatchling": 0,
+        "Juvenile": 30,
+        "Sub Adult": 11,
+        "Adult": 17
+      },
+      "Stegosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 20,
+        "Sub Adult": 15,
+        "Adult": 9
+      },
+      "Kentrosaurus": {
+        "Hatchling": 1,
+        "Juvenile": 11,
+        "Sub Adult": 9,
+        "Adult": 23
+      },
+      "Diabloceratops": {
+        "Hatchling": 0,
+        "Juvenile": 15,
+        "Sub Adult": 11,
+        "Adult": 11
+      },
+      "Troodon": {
+        "Hatchling": 0,
+        "Juvenile": 16,
+        "Sub Adult": 5,
+        "Adult": 12
+      },
+      "Herrerasaurus": {
+        "Hatchling": 0,
+        "Juvenile": 21,
+        "Sub Adult": 6,
+        "Adult": 2
+      },
+      "Maiasaura": {
+        "Hatchling": 0,
+        "Juvenile": 7,
+        "Sub Adult": 9,
+        "Adult": 11
+      },
+      "Pachycephalosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 3,
+        "Sub Adult": 12,
+        "Adult": 9
+      },
+      "Beipiaosaurus": {
+        "Hatchling": 1,
+        "Juvenile": 7,
+        "Sub Adult": 4,
+        "Adult": 8
+      },
+      "Tenontosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 7,
+        "Sub Adult": 6,
+        "Adult": 7
+      },
+      "Hypsilophodon": {
+        "Hatchling": 0,
+        "Juvenile": 5,
+        "Sub Adult": 3,
+        "Adult": 10
+      },
+      "Gallimimus": {
+        "Hatchling": 0,
+        "Juvenile": 5,
+        "Sub Adult": 7,
+        "Adult": 4
+      },
+      "Dryosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 2,
+        "Sub Adult": 2,
+        "Adult": 2
+      }
+    },
+    "2026-08-07": {
+      "Austroraptor": {
+        "Hatchling": 0,
+        "Juvenile": 137,
+        "Sub Adult": 74,
+        "Adult": 54
+      },
+      "Tyrannosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 156,
+        "Sub Adult": 46,
+        "Adult": 20
+      },
+      "Allosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 69,
+        "Sub Adult": 24,
+        "Adult": 20
+      },
+      "Deinosuchus": {
+        "Hatchling": 0,
+        "Juvenile": 65,
+        "Sub Adult": 28,
+        "Adult": 7
+      },
+      "Triceratops": {
+        "Hatchling": 1,
+        "Juvenile": 37,
+        "Sub Adult": 26,
+        "Adult": 23
+      },
+      "Omniraptor": {
+        "Hatchling": 0,
+        "Juvenile": 34,
+        "Sub Adult": 24,
+        "Adult": 26
+      },
+      "Ceratosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 33,
+        "Sub Adult": 25,
+        "Adult": 16
+      },
+      "Pteranodon": {
+        "Hatchling": 0,
+        "Juvenile": 33,
+        "Sub Adult": 10,
+        "Adult": 24
+      },
+      "Carnotaurus": {
+        "Hatchling": 0,
+        "Juvenile": 32,
+        "Sub Adult": 9,
+        "Adult": 19
+      },
+      "Kentrosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 26,
+        "Sub Adult": 12,
+        "Adult": 22
+      },
+      "Dilophosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 20,
+        "Sub Adult": 13,
+        "Adult": 13
+      },
+      "Maiasaura": {
+        "Hatchling": 2,
+        "Juvenile": 15,
+        "Sub Adult": 10,
+        "Adult": 15
+      },
+      "Stegosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 12,
+        "Sub Adult": 16,
+        "Adult": 12
+      },
+      "Troodon": {
+        "Hatchling": 0,
+        "Juvenile": 20,
+        "Sub Adult": 3,
+        "Adult": 14
+      },
+      "Herrerasaurus": {
+        "Hatchling": 0,
+        "Juvenile": 22,
+        "Sub Adult": 8,
+        "Adult": 3
+      },
+      "Diabloceratops": {
+        "Hatchling": 1,
+        "Juvenile": 14,
+        "Sub Adult": 8,
+        "Adult": 6
+      },
+      "Pachycephalosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 7,
+        "Sub Adult": 9,
+        "Adult": 12
+      },
+      "Gallimimus": {
+        "Hatchling": 0,
+        "Juvenile": 5,
+        "Sub Adult": 5,
+        "Adult": 4
+      },
+      "Beipiaosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 4,
+        "Sub Adult": 5,
+        "Adult": 4
+      },
+      "Tenontosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 3,
+        "Sub Adult": 1,
+        "Adult": 8
+      },
+      "Hypsilophodon": {
+        "Hatchling": 0,
+        "Juvenile": 1,
+        "Sub Adult": 3,
+        "Adult": 6
+      },
+      "Dryosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 4,
+        "Sub Adult": 1,
+        "Adult": 0
+      }
+    },
+    "2026-08-08": {
+      "Austroraptor": {
+        "Hatchling": 1,
+        "Juvenile": 110,
+        "Sub Adult": 55,
+        "Adult": 64
+      },
+      "Tyrannosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 174,
+        "Sub Adult": 38,
+        "Adult": 15
+      },
+      "Allosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 81,
+        "Sub Adult": 13,
+        "Adult": 22
+      },
+      "Deinosuchus": {
+        "Hatchling": 0,
+        "Juvenile": 76,
+        "Sub Adult": 23,
+        "Adult": 11
+      },
+      "Triceratops": {
+        "Hatchling": 0,
+        "Juvenile": 38,
+        "Sub Adult": 31,
+        "Adult": 19
+      },
+      "Pteranodon": {
+        "Hatchling": 0,
+        "Juvenile": 35,
+        "Sub Adult": 22,
+        "Adult": 27
+      },
+      "Kentrosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 32,
+        "Sub Adult": 18,
+        "Adult": 27
+      },
+      "Ceratosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 38,
+        "Sub Adult": 18,
+        "Adult": 20
+      },
+      "Omniraptor": {
+        "Hatchling": 0,
+        "Juvenile": 43,
+        "Sub Adult": 18,
+        "Adult": 12
+      },
+      "Stegosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 21,
+        "Sub Adult": 24,
+        "Adult": 12
+      },
+      "Dilophosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 22,
+        "Sub Adult": 16,
+        "Adult": 19
+      },
+      "Carnotaurus": {
+        "Hatchling": 0,
+        "Juvenile": 21,
+        "Sub Adult": 14,
+        "Adult": 17
+      },
+      "Diabloceratops": {
+        "Hatchling": 0,
+        "Juvenile": 12,
+        "Sub Adult": 16,
+        "Adult": 17
+      },
+      "Herrerasaurus": {
+        "Hatchling": 1,
+        "Juvenile": 28,
+        "Sub Adult": 7,
+        "Adult": 6
+      },
+      "Pachycephalosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 9,
+        "Sub Adult": 12,
+        "Adult": 16
+      },
+      "Maiasaura": {
+        "Hatchling": 3,
+        "Juvenile": 8,
+        "Sub Adult": 12,
+        "Adult": 7
+      },
+      "Troodon": {
+        "Hatchling": 0,
+        "Juvenile": 17,
+        "Sub Adult": 6,
+        "Adult": 6
+      },
+      "Gallimimus": {
+        "Hatchling": 0,
+        "Juvenile": 7,
+        "Sub Adult": 6,
+        "Adult": 8
+      },
+      "Tenontosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 3,
+        "Sub Adult": 9,
+        "Adult": 8
+      },
+      "Hypsilophodon": {
+        "Hatchling": 0,
+        "Juvenile": 2,
+        "Sub Adult": 1,
+        "Adult": 9
+      },
+      "Beipiaosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 2,
+        "Sub Adult": 3,
+        "Adult": 4
+      },
+      "Dryosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 6,
+        "Sub Adult": 1,
+        "Adult": 1
+      }
+    },
+    "2026-08-09": {
+      "Tyrannosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 167,
+        "Sub Adult": 41,
+        "Adult": 13
+      },
+      "Austroraptor": {
+        "Hatchling": 0,
+        "Juvenile": 101,
+        "Sub Adult": 58,
+        "Adult": 45
+      },
+      "Allosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 102,
+        "Sub Adult": 17,
+        "Adult": 23
+      },
+      "Deinosuchus": {
+        "Hatchling": 0,
+        "Juvenile": 77,
+        "Sub Adult": 15,
+        "Adult": 10
+      },
+      "Triceratops": {
+        "Hatchling": 0,
+        "Juvenile": 31,
+        "Sub Adult": 20,
+        "Adult": 25
+      },
+      "Ceratosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 35,
+        "Sub Adult": 14,
+        "Adult": 20
+      },
+      "Pteranodon": {
+        "Hatchling": 0,
+        "Juvenile": 29,
+        "Sub Adult": 17,
+        "Adult": 18
+      },
+      "Carnotaurus": {
+        "Hatchling": 0,
+        "Juvenile": 29,
+        "Sub Adult": 14,
+        "Adult": 20
+      },
+      "Omniraptor": {
+        "Hatchling": 1,
+        "Juvenile": 22,
+        "Sub Adult": 18,
+        "Adult": 15
+      },
+      "Dilophosaurus": {
+        "Hatchling": 1,
+        "Juvenile": 17,
+        "Sub Adult": 16,
+        "Adult": 21
+      },
+      "Stegosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 10,
+        "Sub Adult": 20,
+        "Adult": 20
+      },
+      "Kentrosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 14,
+        "Sub Adult": 11,
+        "Adult": 19
+      },
+      "Pachycephalosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 8,
+        "Sub Adult": 14,
+        "Adult": 22
+      },
+      "Diabloceratops": {
+        "Hatchling": 0,
+        "Juvenile": 11,
+        "Sub Adult": 10,
+        "Adult": 19
+      },
+      "Troodon": {
+        "Hatchling": 0,
+        "Juvenile": 18,
+        "Sub Adult": 5,
+        "Adult": 11
+      },
+      "Herrerasaurus": {
+        "Hatchling": 0,
+        "Juvenile": 15,
+        "Sub Adult": 8,
+        "Adult": 2
+      },
+      "Hypsilophodon": {
+        "Hatchling": 0,
+        "Juvenile": 3,
+        "Sub Adult": 4,
+        "Adult": 15
+      },
+      "Gallimimus": {
+        "Hatchling": 0,
+        "Juvenile": 9,
+        "Sub Adult": 10,
+        "Adult": 1
+      },
+      "Maiasaura": {
+        "Hatchling": 0,
+        "Juvenile": 4,
+        "Sub Adult": 4,
+        "Adult": 7
+      },
+      "Tenontosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 3,
+        "Sub Adult": 6,
+        "Adult": 4
+      },
+      "Beipiaosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 3,
+        "Sub Adult": 2,
+        "Adult": 6
+      },
+      "Dryosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 1,
+        "Sub Adult": 1,
+        "Adult": 1
+      }
+    },
+    "2026-08-10": {
+      "Tyrannosaurus": {
+        "Hatchling": 1,
+        "Juvenile": 142,
+        "Sub Adult": 42,
+        "Adult": 21
+      },
+      "Austroraptor": {
+        "Hatchling": 0,
+        "Juvenile": 54,
+        "Sub Adult": 37,
+        "Adult": 38
+      },
+      "Deinosuchus": {
+        "Hatchling": 0,
+        "Juvenile": 78,
+        "Sub Adult": 17,
+        "Adult": 7
+      },
+      "Allosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 41,
+        "Sub Adult": 20,
+        "Adult": 16
+      },
+      "Ceratosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 20,
+        "Sub Adult": 24,
+        "Adult": 21
+      },
+      "Triceratops": {
+        "Hatchling": 0,
+        "Juvenile": 19,
+        "Sub Adult": 20,
+        "Adult": 21
+      },
+      "Omniraptor": {
+        "Hatchling": 0,
+        "Juvenile": 25,
+        "Sub Adult": 15,
+        "Adult": 19
+      },
+      "Kentrosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 14,
+        "Sub Adult": 10,
+        "Adult": 23
+      },
+      "Stegosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 10,
+        "Sub Adult": 12,
+        "Adult": 23
+      },
+      "Pteranodon": {
+        "Hatchling": 0,
+        "Juvenile": 22,
+        "Sub Adult": 6,
+        "Adult": 17
+      },
+      "Carnotaurus": {
+        "Hatchling": 0,
+        "Juvenile": 15,
+        "Sub Adult": 14,
+        "Adult": 15
+      },
+      "Maiasaura": {
+        "Hatchling": 1,
+        "Juvenile": 20,
+        "Sub Adult": 12,
+        "Adult": 10
+      },
+      "Dilophosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 14,
+        "Sub Adult": 7,
+        "Adult": 7
+      },
+      "Herrerasaurus": {
+        "Hatchling": 0,
+        "Juvenile": 20,
+        "Sub Adult": 3,
+        "Adult": 1
+      },
+      "Diabloceratops": {
+        "Hatchling": 0,
+        "Juvenile": 8,
+        "Sub Adult": 6,
+        "Adult": 9
+      },
+      "Troodon": {
+        "Hatchling": 0,
+        "Juvenile": 9,
+        "Sub Adult": 5,
+        "Adult": 6
+      },
+      "Pachycephalosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 7,
+        "Sub Adult": 4,
+        "Adult": 7
+      },
+      "Hypsilophodon": {
+        "Hatchling": 0,
+        "Juvenile": 5,
+        "Sub Adult": 3,
+        "Adult": 9
+      },
+      "Tenontosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 5,
+        "Sub Adult": 8,
+        "Adult": 2
+      },
+      "Gallimimus": {
+        "Hatchling": 0,
+        "Juvenile": 2,
+        "Sub Adult": 5,
+        "Adult": 6
+      },
+      "Beipiaosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 0,
+        "Sub Adult": 4,
+        "Adult": 4
+      },
+      "Dryosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 1,
+        "Sub Adult": 1,
+        "Adult": 2
+      }
+    },
+    "2026-08-11": {
+      "Tyrannosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 169,
+        "Sub Adult": 42,
+        "Adult": 26
+      },
+      "Austroraptor": {
+        "Hatchling": 0,
+        "Juvenile": 60,
+        "Sub Adult": 38,
+        "Adult": 50
+      },
+      "Allosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 78,
+        "Sub Adult": 35,
+        "Adult": 24
+      },
+      "Deinosuchus": {
+        "Hatchling": 0,
+        "Juvenile": 60,
+        "Sub Adult": 27,
+        "Adult": 6
+      },
+      "Ceratosaurus": {
+        "Hatchling": 1,
+        "Juvenile": 20,
+        "Sub Adult": 20,
+        "Adult": 28
+      },
+      "Triceratops": {
+        "Hatchling": 0,
+        "Juvenile": 23,
+        "Sub Adult": 19,
+        "Adult": 25
+      },
+      "Omniraptor": {
+        "Hatchling": 1,
+        "Juvenile": 38,
+        "Sub Adult": 9,
+        "Adult": 15
+      },
+      "Stegosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 12,
+        "Sub Adult": 23,
+        "Adult": 15
+      },
+      "Kentrosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 14,
+        "Sub Adult": 11,
+        "Adult": 23
+      },
+      "Pteranodon": {
+        "Hatchling": 0,
+        "Juvenile": 22,
+        "Sub Adult": 9,
+        "Adult": 16
+      },
+      "Carnotaurus": {
+        "Hatchling": 0,
+        "Juvenile": 15,
+        "Sub Adult": 15,
+        "Adult": 16
+      },
+      "Dilophosaurus": {
+        "Hatchling": 1,
+        "Juvenile": 13,
+        "Sub Adult": 12,
+        "Adult": 19
+      },
+      "Troodon": {
+        "Hatchling": 0,
+        "Juvenile": 12,
+        "Sub Adult": 11,
+        "Adult": 12
+      },
+      "Maiasaura": {
+        "Hatchling": 1,
+        "Juvenile": 14,
+        "Sub Adult": 9,
+        "Adult": 7
+      },
+      "Pachycephalosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 8,
+        "Sub Adult": 8,
+        "Adult": 11
+      },
+      "Herrerasaurus": {
+        "Hatchling": 0,
+        "Juvenile": 14,
+        "Sub Adult": 8,
+        "Adult": 4
+      },
+      "Hypsilophodon": {
+        "Hatchling": 0,
+        "Juvenile": 4,
+        "Sub Adult": 3,
+        "Adult": 15
+      },
+      "Tenontosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 5,
+        "Sub Adult": 10,
+        "Adult": 7
+      },
+      "Diabloceratops": {
+        "Hatchling": 1,
+        "Juvenile": 7,
+        "Sub Adult": 5,
+        "Adult": 8
+      },
+      "Beipiaosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 4,
+        "Sub Adult": 3,
+        "Adult": 8
+      },
+      "Gallimimus": {
+        "Hatchling": 0,
+        "Juvenile": 6,
+        "Sub Adult": 2,
+        "Adult": 4
+      },
+      "Dryosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 1,
+        "Sub Adult": 2,
+        "Adult": 2
+      }
+    },
+    "2026-08-12": {
+      "Tyrannosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 146,
+        "Sub Adult": 49,
+        "Adult": 24
+      },
+      "Austroraptor": {
+        "Hatchling": 0,
+        "Juvenile": 42,
+        "Sub Adult": 38,
+        "Adult": 38
+      },
+      "Allosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 55,
+        "Sub Adult": 30,
+        "Adult": 20
+      },
+      "Deinosuchus": {
+        "Hatchling": 0,
+        "Juvenile": 57,
+        "Sub Adult": 22,
+        "Adult": 13
+      },
+      "Ceratosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 37,
+        "Sub Adult": 22,
+        "Adult": 21
+      },
+      "Kentrosaurus": {
+        "Hatchling": 1,
+        "Juvenile": 23,
+        "Sub Adult": 12,
+        "Adult": 25
+      },
+      "Triceratops": {
+        "Hatchling": 0,
+        "Juvenile": 22,
+        "Sub Adult": 17,
+        "Adult": 21
+      },
+      "Stegosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 13,
+        "Sub Adult": 23,
+        "Adult": 21
+      },
+      "Carnotaurus": {
+        "Hatchling": 0,
+        "Juvenile": 15,
+        "Sub Adult": 15,
+        "Adult": 17
+      },
+      "Omniraptor": {
+        "Hatchling": 0,
+        "Juvenile": 31,
+        "Sub Adult": 10,
+        "Adult": 5
+      },
+      "Pteranodon": {
+        "Hatchling": 0,
+        "Juvenile": 20,
+        "Sub Adult": 9,
+        "Adult": 16
+      },
+      "Diabloceratops": {
+        "Hatchling": 0,
+        "Juvenile": 12,
+        "Sub Adult": 12,
+        "Adult": 14
+      },
+      "Troodon": {
+        "Hatchling": 0,
+        "Juvenile": 11,
+        "Sub Adult": 12,
+        "Adult": 11
+      },
+      "Dilophosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 14,
+        "Sub Adult": 12,
+        "Adult": 7
+      },
+      "Herrerasaurus": {
+        "Hatchling": 0,
+        "Juvenile": 13,
+        "Sub Adult": 6,
+        "Adult": 8
+      },
+      "Tenontosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 13,
+        "Sub Adult": 2,
+        "Adult": 6
+      },
+      "Maiasaura": {
+        "Hatchling": 1,
+        "Juvenile": 8,
+        "Sub Adult": 7,
+        "Adult": 3
+      },
+      "Hypsilophodon": {
+        "Hatchling": 0,
+        "Juvenile": 4,
+        "Sub Adult": 4,
+        "Adult": 6
+      },
+      "Beipiaosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 3,
+        "Sub Adult": 4,
+        "Adult": 4
+      },
+      "Pachycephalosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 1,
+        "Sub Adult": 4,
+        "Adult": 6
+      },
+      "Gallimimus": {
+        "Hatchling": 0,
+        "Juvenile": 3,
+        "Sub Adult": 2,
+        "Adult": 4
+      },
+      "Dryosaurus": {
+        "Hatchling": 0,
+        "Juvenile": 2,
+        "Sub Adult": 4,
+        "Adult": 0
+      }
+    }
+  }
+}
