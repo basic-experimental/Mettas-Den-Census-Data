@@ -10,7 +10,7 @@ export type CensusSpeciesCount = {
 }
 
 export type PopulationComposition = {
-  [diet: Diet]: CensusSpeciesCount;
+  [diet in Diet]: CensusSpeciesCount;
 };
 
 export type TopTenSpeciesEntry = {
@@ -24,7 +24,7 @@ export type SpeciesBreakdown = {
 }
 
 export type GrowthDistribution = {
-  [growth: GrowthStage]: number;
+  [growth in GrowthStage]: number;
 };
 
 export type SurvivalIndex = {
